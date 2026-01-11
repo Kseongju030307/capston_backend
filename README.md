@@ -23,4 +23,9 @@
     - LoRA(Low-Rank Adaptation) 기반 Fine-tuning 전략 수립을 통해 파라미터 효율적인 성능 향상 달성
 - 스케치 인식 결과를 기반으로 한 그림 레퍼런스 추천 파이프라인 구축 및 모바일 앱 서비스 연동·배포
 
-
+✿ 코드
+- yolov11_train_forcls_using_focal.ipynb
+    - Focal Loss를 활용한 YOLO Fine-tuning 코드
+ 
+- train_qwmLora.ipynb
+    - LoRA + QMW Loss를 적용한 CLIP Fine-tuning 코드
