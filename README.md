@@ -26,6 +26,5 @@
 ✿ 코드
 - yolov11_train_forcls_using_focal.ipynb
     - Focal Loss를 활용한 YOLO Fine-tuning 코드
- 
 - train_qwmLora.ipynb
     - LoRA + QMW Loss를 적용한 CLIP Fine-tuning 코드
